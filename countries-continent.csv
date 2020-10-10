@@ -1,0 +1,201 @@
+Country,Subregion,Continent
+Australia,Australia and New Zealand,Oceania
+Papua New Guinea,Melanesia,Oceania
+New Zealand,Australia and New Zealand,Oceania
+Fiji,Melanesia,Oceania
+Solomon Islands,Melanesia,Oceania
+Vanuatu,Melanesia,Oceania
+Samoa,Polynesia,Oceania
+Kiribati,Micronesia,Oceania
+Micronesia,Micronesia,Oceania
+Tonga,Polynesia,Oceania
+Marshall Islands,Micronesia,Oceania
+Palau,Micronesia,Oceania
+Tuvalu,Polynesia,Oceania
+Nauru,Micronesia,Oceania
+Country,Subregion,Oceania
+Nigeria,Western Africa,Africa
+Ethiopia,Eastern Africa,Africa
+Egypt,Northern Africa,Africa
+DR Congo,Middle Africa,Africa
+Tanzania,Eastern Africa,Africa
+South Africa,Southern Africa,Africa
+Kenya,Eastern Africa,Africa
+Uganda,Eastern Africa,Africa
+Algeria,Northern Africa,Africa
+Sudan,Northern Africa,Africa
+Morocco,Northern Africa,Africa
+Angola,Middle Africa,Africa
+Mozambique,Eastern Africa,Africa
+Ghana,Western Africa,Africa
+Madagascar,Eastern Africa,Africa
+Cameroon,Middle Africa,Africa
+Côte d'Ivoire,Western Africa,Africa
+Niger,Western Africa,Africa
+Burkina Faso,Western Africa,Africa
+Mali,Western Africa,Africa
+Malawi,Eastern Africa,Africa
+Zambia,Eastern Africa,Africa
+Senegal,Western Africa,Africa
+Chad,Middle Africa,Africa
+Somalia,Eastern Africa,Africa
+Zimbabwe,Eastern Africa,Africa
+Guinea,Western Africa,Africa
+Rwanda,Eastern Africa,Africa
+Benin,Western Africa,Africa
+Burundi,Eastern Africa,Africa
+Tunisia,Northern Africa,Africa
+South Sudan,Eastern Africa,Africa
+Togo,Western Africa,Africa
+Sierra Leone,Western Africa,Africa
+Libya,Northern Africa,Africa
+Congo,Middle Africa,Africa
+Liberia,Western Africa,Africa
+Central African Republic,Middle Africa,Africa
+Mauritania,Western Africa,Africa
+Eritrea,Eastern Africa,Africa
+Namibia,Southern Africa,Africa
+Gambia,Western Africa,Africa
+Botswana,Southern Africa,Africa
+Gabon,Middle Africa,Africa
+Lesotho,Southern Africa,Africa
+Guinea-Bissau,Western Africa,Africa
+Equatorial Guinea,Middle Africa,Africa
+Mauritius,Eastern Africa,Africa
+Eswatini,Southern Africa,Africa
+Djibouti,Eastern Africa,Africa
+Comoros,Eastern Africa,Africa
+Cabo Verde,Western Africa,Africa
+Sao Tome & Principe,Middle Africa,Africa
+Seychelles,Eastern Africa,Africa
+Country,Subregion,Africa
+United States,Northern America,North America
+Canada,Northern America,North America
+Country,Subregion,North America
+Russia,Eastern Europe,Europe
+Germany,Western Europe,Europe
+United Kingdom,Northern Europe,Europe
+France,Western Europe,Europe
+Italy,Southern Europe,Europe
+Spain,Southern Europe,Europe
+Ukraine,Eastern Europe,Europe
+Poland,Eastern Europe,Europe
+Romania,Eastern Europe,Europe
+Netherlands,Western Europe,Europe
+Belgium,Western Europe,Europe
+Czech Republic (Czechia),Eastern Europe,Europe
+Greece,Southern Europe,Europe
+Portugal,Southern Europe,Europe
+Sweden,Northern Europe,Europe
+Hungary,Eastern Europe,Europe
+Belarus,Eastern Europe,Europe
+Austria,Western Europe,Europe
+Serbia,Southern Europe,Europe
+Switzerland,Western Europe,Europe
+Bulgaria,Eastern Europe,Europe
+Denmark,Northern Europe,Europe
+Finland,Northern Europe,Europe
+Slovakia,Eastern Europe,Europe
+Norway,Northern Europe,Europe
+Ireland,Northern Europe,Europe
+Croatia,Southern Europe,Europe
+Moldova,Eastern Europe,Europe
+Bosnia and Herzegovina,Southern Europe,Europe
+Albania,Southern Europe,Europe
+Lithuania,Northern Europe,Europe
+North Macedonia,Southern Europe,Europe
+Slovenia,Southern Europe,Europe
+Latvia,Northern Europe,Europe
+Estonia,Northern Europe,Europe
+Montenegro,Southern Europe,Europe
+Luxembourg,Western Europe,Europe
+Malta,Southern Europe,Europe
+Iceland,Northern Europe,Europe
+Andorra,Southern Europe,Europe
+Monaco,Western Europe,Europe
+Liechtenstein,Western Europe,Europe
+San Marino,Southern Europe,Europe
+Holy See,Southern Europe,Europe
+Country,Subregion,Europe
+Brazil,South America,Latin America
+Mexico,Central America,Latin America
+Colombia,South America,Latin America
+Argentina,South America,Latin America
+Peru,South America,Latin America
+Venezuela,South America,Latin America
+Chile,South America,Latin America
+Guatemala,Central America,Latin America
+Ecuador,South America,Latin America
+Bolivia,South America,Latin America
+Haiti,Caribbean,Latin America
+Cuba,Caribbean,Latin America
+Dominican Republic,Caribbean,Latin America
+Honduras,Central America,Latin America
+Paraguay,South America,Latin America
+Nicaragua,Central America,Latin America
+El Salvador,Central America,Latin America
+Costa Rica,Central America,Latin America
+Panama,Central America,Latin America
+Uruguay,South America,Latin America
+Jamaica,Caribbean,Latin America
+Trinidad and Tobago,Caribbean,Latin America
+Guyana,South America,Latin America
+Suriname,South America,Latin America
+Belize,Central America,Latin America
+Bahamas,Caribbean,Latin America
+Barbados,Caribbean,Latin America
+Saint Lucia,Caribbean,Latin America
+Grenada,Caribbean,Latin America
+St. Vincent & Grenadines,Caribbean,Latin America
+Antigua and Barbuda,Caribbean,Latin America
+Dominica,Caribbean,Latin America
+Saint Kitts & Nevis,Caribbean,Latin America
+Country,Subregion,Latin America
+China,Eastern Asia,Asia
+India,Southern Asia,Asia
+Indonesia,South-Eastern Asia,Asia
+Pakistan,Southern Asia,Asia
+Bangladesh,Southern Asia,Asia
+Japan,Eastern Asia,Asia
+Philippines,South-Eastern Asia,Asia
+Vietnam,South-Eastern Asia,Asia
+Turkey,Western Asia,Asia
+Iran,Southern Asia,Asia
+Thailand,South-Eastern Asia,Asia
+Myanmar,South-Eastern Asia,Asia
+South Korea,Eastern Asia,Asia
+Iraq,Western Asia,Asia
+Afghanistan,Southern Asia,Asia
+Saudi Arabia,Western Asia,Asia
+Uzbekistan,Central Asia,Asia
+Malaysia,South-Eastern Asia,Asia
+Yemen,Western Asia,Asia
+Nepal,Southern Asia,Asia
+North Korea,Eastern Asia,Asia
+Sri Lanka,Southern Asia,Asia
+Kazakhstan,Central Asia,Asia
+Syria,Western Asia,Asia
+Cambodia,South-Eastern Asia,Asia
+Jordan,Western Asia,Asia
+Azerbaijan,Western Asia,Asia
+United Arab Emirates,Western Asia,Asia
+Tajikistan,Central Asia,Asia
+Israel,Western Asia,Asia
+Laos,South-Eastern Asia,Asia
+Lebanon,Western Asia,Asia
+Kyrgyzstan,Central Asia,Asia
+Turkmenistan,Central Asia,Asia
+Singapore,South-Eastern Asia,Asia
+Oman,Western Asia,Asia
+State of Palestine,Western Asia,Asia
+Kuwait,Western Asia,Asia
+Georgia,Western Asia,Asia
+Mongolia,Eastern Asia,Asia
+Armenia,Western Asia,Asia
+Qatar,Western Asia,Asia
+Bahrain,Western Asia,Asia
+Timor-Leste,South-Eastern Asia,Asia
+Cyprus,Western Asia,Asia
+Bhutan,Southern Asia,Asia
+Maldives,Southern Asia,Asia
+Brunei,South-Eastern Asia,Asia
